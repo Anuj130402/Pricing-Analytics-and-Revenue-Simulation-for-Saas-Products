@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+joblib
+airflow
+tableau-api-lib
+jupyterlab
